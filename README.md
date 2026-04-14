@@ -1,7 +1,47 @@
+# Parsey — Support & Privacy
+
+**Developer:** Parsey Engineering
+**Contact:** parseyc@gmail.com
+
+---
+
+## Support
+
+Parsey is a spatial annotation tool for iPhone Pro with LiDAR, built for ML engineers, computer vision researchers, and data scientists who need high-quality 3D training data from real environments.
+
+### Getting Help
+
+For bug reports, feature requests, or general questions, contact Craig at **parseyc@gmail.com**. Response time is typically within a few business days.
+
+### System Requirements
+
+- iPhone 12 Pro or later (LiDAR Scanner required)
+- iOS 17 or later
+
+### Common Questions
+
+**Why does Parsey only work on iPhone Pro models?**
+Parsey relies on the LiDAR Scanner for millimetre-accurate 3D bounding boxes. Non-Pro iPhones don't include the LiDAR hardware required for accurate spatial annotation.
+
+**Where is my annotation data stored?**
+All project files, annotations, and exported datasets are stored locally on your device. Nothing is uploaded to a server.
+
+**How do I export my training data?**
+From within a project, use the export option to generate YOLO or COCO format datasets. Parsey Pro is required for unlimited exports.
+
+**How do I manage my Parsey Pro subscription?**
+Subscriptions are managed through your Apple ID. Go to **Settings → [Your Name] → Subscriptions** on your iPhone to view or cancel your subscription.
+
+### Reporting Issues
+
+When reporting a bug, please include your iPhone model, iOS version, and a brief description of what you were doing when the issue occurred. Screenshots or screen recordings help a lot.
+
+---
+
 # Privacy Policy — Parsey
 
-**Effective Date:** 15 April 2025  
-**Developer:** Parsey Engineering  
+**Effective Date:** 15 April 2025
+**Developer:** Parsey Engineering
 **Contact:** parseyc@gmail.com
 
 ---
@@ -70,8 +110,8 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 If you have any questions about this privacy policy, please contact:
 
-**Parsey Engineering**  
-Muswellbrook, NSW, Australia  
+**Parsey Engineering**
+Muswellbrook, NSW, Australia
 parseyc@gmail.com
 
 ---
