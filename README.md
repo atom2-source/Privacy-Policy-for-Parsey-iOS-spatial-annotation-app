@@ -40,7 +40,7 @@ When reporting a bug, please include your iPhone model, iOS version, and a brief
 
 # Privacy Policy — Parsey
 
-**Effective Date:** 15 April 2025
+**Effective Date:** 15 April 2026
 **Developer:** Parsey Engineering
 **Contact:** parseyc@gmail.com
 
